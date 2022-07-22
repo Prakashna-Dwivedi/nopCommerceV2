@@ -1,0 +1,6 @@
+2022-07-20 20:43:36.563 [main] INFO  com.nopcommerce.testCases.BaseClass - User name is provided
+2022-07-20 20:43:36.628 [main] INFO  com.nopcommerce.testCases.BaseClass - password is provided
+2022-07-20 20:43:41.155 [main] INFO  com.nopcommerce.testCases.BaseClass - providing customer details....
+2022-07-20 20:45:06.145 [main] INFO  com.nopcommerce.testCases.BaseClass - User name is provided
+2022-07-20 20:45:06.208 [main] INFO  com.nopcommerce.testCases.BaseClass - password is provided
+2022-07-20 20:45:10.645 [main] INFO  com.nopcommerce.testCases.BaseClass - providing customer details....

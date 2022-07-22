@@ -1,0 +1,19 @@
+2022-07-16 11:45:36.247 [main] INFO  com.nopcommerce.testCases.BaseClass - User provided
+2022-07-16 11:45:37.533 [main] INFO  com.nopcommerce.testCases.BaseClass - Password provided
+2022-07-16 11:45:46.440 [main] INFO  com.nopcommerce.testCases.BaseClass - Login in Clicked
+2022-07-16 11:45:53.431 [main] INFO  com.nopcommerce.testCases.BaseClass - Login Passed
+2022-07-16 19:04:09.120 [main] INFO  com.nopcommerce.testCases.BaseClass - User provided
+2022-07-16 19:04:10.590 [main] INFO  com.nopcommerce.testCases.BaseClass - Password provided
+2022-07-16 19:04:23.816 [main] INFO  com.nopcommerce.testCases.BaseClass - Login in Clicked
+2022-07-16 19:04:32.596 [main] INFO  com.nopcommerce.testCases.BaseClass - Login Passed
+2022-07-16 19:17:18.079 [main] INFO  com.nopcommerce.testCases.BaseClass - User provided
+2022-07-16 19:17:19.234 [main] INFO  com.nopcommerce.testCases.BaseClass - Password provided
+2022-07-16 19:17:27.795 [main] INFO  com.nopcommerce.testCases.BaseClass - Login in Clicked
+2022-07-16 19:17:40.084 [main] INFO  com.nopcommerce.testCases.BaseClass - Login Passed
+2022-07-16 19:29:03.157 [main] INFO  com.nopcommerce.testCases.BaseClass - User provided
+2022-07-16 19:29:04.308 [main] INFO  com.nopcommerce.testCases.BaseClass - Password provided
+2022-07-16 19:29:11.565 [main] INFO  com.nopcommerce.testCases.BaseClass - Login in Clicked
+2022-07-16 19:29:19.915 [main] INFO  com.nopcommerce.testCases.BaseClass - Login Passed
+2022-07-16 19:59:47.134 [main] INFO  com.nopcommerce.testCases.BaseClass - User provided
+2022-07-16 19:59:48.550 [main] INFO  com.nopcommerce.testCases.BaseClass - Password provided
+2022-07-16 19:59:56.562 [main] INFO  com.nopcommerce.testCases.BaseClass - Login in Clicked
